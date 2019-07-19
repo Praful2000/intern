@@ -7,6 +7,7 @@ body, html {
    text-align: center;
    background-image: url('bg/bg.png');
    width: 100%;
+   height : 100%;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -42,6 +43,4 @@ h4{
 .bt{
   font-size: 3rem;
 }
-  .bg{
-    height : 100%;
-}
+
