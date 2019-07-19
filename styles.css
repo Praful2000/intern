@@ -27,9 +27,7 @@ margin-top: 10%;
 
 
 @media (max-width : 1028px) {
-  .bg{
-    height: 2000px;
-  }
+
   .cloud-image{
     height: 440px;
     width: 520px;
